@@ -7,3 +7,6 @@
 [submodule "ext/glad"]
 	path = ext/glad
 	url = https://github.com/Dav1dde/glad.git
+[submodule "ext/wxWidgets"]
+	path = ext/wxWidgets
+	url = https://github.com/Cethric/wxWidgets.git
