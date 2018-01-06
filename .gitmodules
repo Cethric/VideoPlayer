@@ -1,6 +1,3 @@
-[submodule "ext/wxWidgets"]
-	path = ext/wxWidgets
-	url = https://github.com/wxWidgets/wxWidgets.git
 [submodule "ext/FFmpeg"]
 	path = ext/FFmpeg
 	url = https://github.com/FFmpeg/FFmpeg.git
