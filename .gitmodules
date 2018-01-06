@@ -1,0 +1,12 @@
+[submodule "ext/wxWidgets"]
+	path = ext/wxWidgets
+	url = https://github.com/wxWidgets/wxWidgets.git
+[submodule "ext/FFmpeg"]
+	path = ext/FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg.git
+[submodule "ext/glm"]
+	path = ext/glm
+	url = https://github.com/g-truc/glm
+[submodule "ext/glad"]
+	path = ext/glad
+	url = https://github.com/Dav1dde/glad.git
